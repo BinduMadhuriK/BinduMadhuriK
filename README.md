@@ -27,6 +27,6 @@ I'm a results-oriented Data Scientist with over 4.2 years of experience working 
 * Technical Skills: Python programming | SQL | R | Machine Learning | Statistics | MongoDB | Data Cleaning and Wrangling (Pandas) | Data Visualization (Tableau, Power BI, Python) | Big Data Analytics | Time-Series Forecasting & Analysis | Deployment using Flask | Database Management (RDBMS)
 * Soft Skills: Communication | Presentation | Team Player | Report | Critical Thinking | Time Management | Continuous Learning
 
-Feel free to explore my repositories and projects. For more details or inquiries, connect with me on [[LinkedIn](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/)https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/] here.
+Feel free to explore my repositories and projects. For more details or inquiries, connect with me on [LinkedIn](https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/)https://www.linkedin.com/in/bindu-madhuri-kadiyala-79a55718a/ here.
 
 Happy Coding! 🚀📊
