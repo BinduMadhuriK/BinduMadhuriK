@@ -6,7 +6,7 @@ I'm a results-oriented Data Scientist with over 4.2 years of experience working 
 * B.Tech(Computer Science & Engineering) in M. S. Ramaiah University of Applied Sciences | Aug. 2015-Aug. 2019
 * 12th(PCMB) in Sri Vidyaniketan Public School | June. 2013-June. 2015
 
-## Experience 
+## Experience 👩‍💻
 * Data Science Intern at Learnbay | Full-time | Apr. 2023 - Present
 * Data Science Intern at CodSoft | Part-time | Dec. 2023 - Jan.2024
 * Data Scientist at Indian Centre for Social Transformation | Full-time | Aug. 2019 - Feb 2022
