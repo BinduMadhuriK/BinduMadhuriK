@@ -1,6 +1,6 @@
-# Welcome to My GitHub Profile! 👋
+# Hi 👋, I'm Bindu Madhuri and Welcome to My GitHub Profile!
 
-I'm a results-oriented Data Scientist with over 4.2 years of experience working with vast data sets to break down information, gather relevant points and solve advanced business problems. Cureently seeking Data Scientist opportunities - Acquired Skills in R, Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, MongoDB, Statistics, ML, BigData, Apache Spark, Time Series Forecasting & Analysis, Deployment of ML models using Flask, Power BI and Tableau. I'm dedicated to staying updated on industry trends and continuously enhancing my skills.
+I'm a results-oriented Data Scientist👨‍💻 with over 4.2 years of experience working with vast data sets to break down information, gather relevant points and solve advanced business problems. Cureently seeking Data Scientist opportunities - Acquired Skills in R, Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, MongoDB, Statistics, ML, BigData, Apache Spark, Time Series Forecasting & Analysis, Deployment of ML models using Flask, Power BI and Tableau. I'm dedicated to staying updated on industry trends and continuously enhancing my skills.
 
 ## Education 🎓
 * B.Tech(Computer Science & Engineering) in M. S. Ramaiah University of Applied Sciences | Aug. 2015-Aug. 2019
